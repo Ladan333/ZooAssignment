@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rasmu\\source\\repos\\Ladan333\\ZooAssignment\\ZooAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1B5A95-368E-4D4B-AD98-8C7E451C0110}|ZooAssignment\\ZooAssignment.csproj|c:\\users\\rasmu\\source\\repos\\ladan333\\zooassignment\\zooassignment\\zooassignment\\models\\zoofunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1B5A95-368E-4D4B-AD98-8C7E451C0110}|ZooAssignment\\ZooAssignment.csproj|solutionrelative:zooassignment\\models\\zoofunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1B5A95-368E-4D4B-AD98-8C7E451C0110}|ZooAssignment\\ZooAssignment.csproj|c:\\users\\rasmu\\source\\repos\\ladan333\\zooassignment\\zooassignment\\zooassignment\\models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1B5A95-368E-4D4B-AD98-8C7E451C0110}|ZooAssignment\\ZooAssignment.csproj|solutionrelative:zooassignment\\models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1B5A95-368E-4D4B-AD98-8C7E451C0110}|ZooAssignment\\ZooAssignment.csproj|c:\\users\\rasmu\\source\\repos\\ladan333\\zooassignment\\zooassignment\\zooassignment\\models\\habitatvisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1B5A95-368E-4D4B-AD98-8C7E451C0110}|ZooAssignment\\ZooAssignment.csproj|solutionrelative:zooassignment\\models\\habitatvisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1B5A95-368E-4D4B-AD98-8C7E451C0110}|ZooAssignment\\ZooAssignment.csproj|c:\\users\\rasmu\\source\\repos\\ladan333\\zooassignment\\zooassignment\\zooassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1B5A95-368E-4D4B-AD98-8C7E451C0110}|ZooAssignment\\ZooAssignment.csproj|solutionrelative:zooassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1B5A95-368E-4D4B-AD98-8C7E451C0110}|ZooAssignment\\ZooAssignment.csproj|c:\\users\\rasmu\\source\\repos\\ladan333\\zooassignment\\zooassignment\\zooassignment\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1B5A95-368E-4D4B-AD98-8C7E451C0110}|ZooAssignment\\ZooAssignment.csproj|solutionrelative:zooassignment\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1B5A95-368E-4D4B-AD98-8C7E451C0110}|ZooAssignment\\ZooAssignment.csproj|c:\\users\\rasmu\\source\\repos\\ladan333\\zooassignment\\zooassignment\\zooassignment\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1B5A95-368E-4D4B-AD98-8C7E451C0110}|ZooAssignment\\ZooAssignment.csproj|solutionrelative:zooassignment\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1B5A95-368E-4D4B-AD98-8C7E451C0110}|ZooAssignment\\ZooAssignment.csproj|c:\\users\\rasmu\\source\\repos\\ladan333\\zooassignment\\zooassignment\\zooassignment\\models\\park.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1B5A95-368E-4D4B-AD98-8C7E451C0110}|ZooAssignment\\ZooAssignment.csproj|solutionrelative:zooassignment\\models\\park.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1B5A95-368E-4D4B-AD98-8C7E451C0110}|ZooAssignment\\ZooAssignment.csproj|c:\\users\\rasmu\\source\\repos\\ladan333\\zooassignment\\zooassignment\\zooassignment\\models\\habitat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1B5A95-368E-4D4B-AD98-8C7E451C0110}|ZooAssignment\\ZooAssignment.csproj|solutionrelative:zooassignment\\models\\habitat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1B5A95-368E-4D4B-AD98-8C7E451C0110}|ZooAssignment\\ZooAssignment.csproj|c:\\users\\rasmu\\source\\repos\\ladan333\\zooassignment\\zooassignment\\zooassignment\\models\\zooassignmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1B5A95-368E-4D4B-AD98-8C7E451C0110}|ZooAssignment\\ZooAssignment.csproj|solutionrelative:zooassignment\\models\\zooassignmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HabitatVisit.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Ladan333\\ZooAssignment\\ZooAssignment\\ZooAssignment\\Models\\HabitatVisit.cs",
+              "RelativeDocumentMoniker": "ZooAssignment\\Models\\HabitatVisit.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Ladan333\\ZooAssignment\\ZooAssignment\\ZooAssignment\\Models\\HabitatVisit.cs",
+              "RelativeToolTip": "ZooAssignment\\Models\\HabitatVisit.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T08:22:19.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZooFunction.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Ladan333\\ZooAssignment\\ZooAssignment\\ZooAssignment\\Models\\ZooFunction.cs",
+              "RelativeDocumentMoniker": "ZooAssignment\\Models\\ZooFunction.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Ladan333\\ZooAssignment\\ZooAssignment\\ZooAssignment\\Models\\ZooFunction.cs",
+              "RelativeToolTip": "ZooAssignment\\Models\\ZooFunction.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwBIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T08:07:08.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Visit.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Ladan333\\ZooAssignment\\ZooAssignment\\ZooAssignment\\Models\\Visit.cs",
+              "RelativeDocumentMoniker": "ZooAssignment\\Models\\Visit.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Ladan333\\ZooAssignment\\ZooAssignment\\ZooAssignment\\Models\\Visit.cs",
+              "RelativeToolTip": "ZooAssignment\\Models\\Visit.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAE4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:47:34.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Ladan333\\ZooAssignment\\ZooAssignment\\ZooAssignment\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "ZooAssignment\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Ladan333\\ZooAssignment\\ZooAssignment\\ZooAssignment\\Models\\Animal.cs",
+              "RelativeToolTip": "ZooAssignment\\Models\\Animal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAIYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:05:47.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Habitat.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Ladan333\\ZooAssignment\\ZooAssignment\\ZooAssignment\\Models\\Habitat.cs",
+              "RelativeDocumentMoniker": "ZooAssignment\\Models\\Habitat.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Ladan333\\ZooAssignment\\ZooAssignment\\ZooAssignment\\Models\\Habitat.cs",
+              "RelativeToolTip": "ZooAssignment\\Models\\Habitat.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAkwPAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:34:51.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Park.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Ladan333\\ZooAssignment\\ZooAssignment\\ZooAssignment\\Models\\Park.cs",
+              "RelativeDocumentMoniker": "ZooAssignment\\Models\\Park.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Ladan333\\ZooAssignment\\ZooAssignment\\ZooAssignment\\Models\\Park.cs",
+              "RelativeToolTip": "ZooAssignment\\Models\\Park.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:34:20.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Ladan333\\ZooAssignment\\ZooAssignment\\ZooAssignment\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "ZooAssignment\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Ladan333\\ZooAssignment\\ZooAssignment\\ZooAssignment\\Models\\Person.cs",
+              "RelativeToolTip": "ZooAssignment\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:34:18.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Ladan333\\ZooAssignment\\ZooAssignment\\ZooAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "ZooAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Ladan333\\ZooAssignment\\ZooAssignment\\ZooAssignment\\Program.cs",
+              "RelativeToolTip": "ZooAssignment\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:35:17.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ZooAssignmentContext.cs",
+              "DocumentMoniker": "C:\\Users\\rasmu\\source\\repos\\Ladan333\\ZooAssignment\\ZooAssignment\\ZooAssignment\\Models\\ZooAssignmentContext.cs",
+              "RelativeDocumentMoniker": "ZooAssignment\\Models\\ZooAssignmentContext.cs",
+              "ToolTip": "C:\\Users\\rasmu\\source\\repos\\Ladan333\\ZooAssignment\\ZooAssignment\\ZooAssignment\\Models\\ZooAssignmentContext.cs",
+              "RelativeToolTip": "ZooAssignment\\Models\\ZooAssignmentContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T08:56:39.557Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
